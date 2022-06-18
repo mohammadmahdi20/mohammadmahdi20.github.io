@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bdbfca4b.css",
+    "main.js": "/static/js/main.de80487e.js",
+    "static/media/card chip.png": "/static/media/card chip.595d2c91e3b2244be923.png",
+    "static/media/profile-1.jpg": "/static/media/profile-1.4947bd877c41e2b9710b.jpg",
+    "static/media/monster.png": "/static/media/monster.882b00f601f8c2cbb092.png",
+    "static/media/uniliver.png": "/static/media/uniliver.171c6195603b18cc57b8.png",
+    "index.html": "/index.html",
+    "main.bdbfca4b.css.map": "/static/css/main.bdbfca4b.css.map",
+    "main.de80487e.js.map": "/static/js/main.de80487e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdbfca4b.css",
+    "static/js/main.de80487e.js"
+  ]
+}
